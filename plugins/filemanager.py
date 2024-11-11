@@ -9,7 +9,7 @@ from pyrogram import filters
 from pyrogram.types import Message
 
 from RynMusic import app
-from Rynusic.misc import SUDOERS
+from RynMusic.misc import SUDOERS
 from utils.error import capture_err
 
 MAX_MESSAGE_SIZE_LIMIT = 5000
