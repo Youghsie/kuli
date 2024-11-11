@@ -14,7 +14,7 @@ from utils.error import capture_err
 from RynMusic.utils.permissions import adminsOnly, member_permissions
 from RynMusic.utils.keyboard import ikb
 from .notes import extract_urls
-from EynMusic.utils.functions import (
+from RynMusic.utils.functions import (
     check_format,
     extract_text_and_keyb,
     get_data_and_name,
